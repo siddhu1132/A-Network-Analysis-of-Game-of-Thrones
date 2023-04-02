@@ -8,11 +8,9 @@ We will use various centrality measures to determine the most important characte
 
 This project will provide an opportunity to apply network analysis techniques to a real-world dataset and gain a deeper understanding of the complex interactions between characters in a popular book series. Whether you are a fan of Game of Thrones or interested in network analysis, this project is sure to be an exciting and informative journey.
 
-### Project Tasks
+# Project Tasks
 
-<h2><span style="color:red;">Question 1</span></h2>
-
-<p>What is the purpose of this project?</p>
+## **What is the purpose of this project?**
 
 This question is asking for a brief description of loading the dataset required for the project. Specifically, we need to load the dataset parsed by Andrew J. Beveridge and Jie Shan, which contains information on the character co-occurrence network in the Game of Thrones book series. The phrase "ASAP" indicates that we should do this quickly or without delay.
 
